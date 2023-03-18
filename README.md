@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @fiik346
 - 👀 I’m interested in design
 - 🌱 I’m currently learning ReactJS + NextJS
+- 🎨 I love use TailwindCSS
 - 💞️ I’m looking to collaborate on front end dev
 - 📫 How to reach me by sending email at taufik@nurhidayat.web.id
 
