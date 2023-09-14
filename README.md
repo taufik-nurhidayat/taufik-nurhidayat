@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @fiik346
-- 👀 I’m interested in design
-- 🌱 I’m currently learning ReactJS + NextJS
-- 🎨 I love use TailwindCSS
-- 💞️ I’m looking to collaborate on front end dev
+- 👀 I’m  interested wrting and design
+- 🌱 I’m currently learning Rust
+- 🎨 I love use TailwindCSS, ReactJS + NextJS
+- 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me by sending email at taufik@nurhidayat.web.id
 
 <!---
