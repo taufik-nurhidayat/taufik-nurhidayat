@@ -3,8 +3,8 @@
 - 🌱 I’m currently deep learning Rust-Lang
 - 🎨 I love use TailwindCSS, ReactJS + NextJS, and Rust
 - 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me by sending email at taufik@nurhidayat.web.id
-- 📃 See my blog at www.nurhidayat.web.id
+- 📫 How to reach me by sending email at taufik@nurhidayat.dev
+- 📃 See my blog at www.nurhidayat.dev
 
 ![Profile Stats](https://github-readme-stats-eight-kappa-73.vercel.app/api?username=fiik346&theme=tokyonight&layout=compact)
 
