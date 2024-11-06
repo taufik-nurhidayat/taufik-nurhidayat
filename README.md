@@ -6,7 +6,7 @@
 - 📫 How to reach me by sending email at taufik@nurhidayat.dev
 - 📃 See my blog at www.nurhidayat.dev
 
-![Profile Stats](https://github-readme-stats-eight-kappa-73.vercel.app/api?username=fiik346&theme=tokyonight&layout=compact)
+![Profile Stats](https://github-readme-stats-eight-kappa-73.vercel.app/api?username=taufik-nurhidayat&theme=tokyonight&layout=compact)
 
 ![wakatime stats](https://github-readme-stats-eight-kappa-73.vercel.app/api/wakatime?username=@fik346&layout=compact&theme=tokyonight)
 <!---
