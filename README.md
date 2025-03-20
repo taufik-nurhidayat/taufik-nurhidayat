@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fiik346
-- 👀 I’m  interested wrting and designhttps://github.com/taufik-nurhidayat/taufik-nurhidayat/blob/main/README.md
+- 👀 I’m  interested wrting and design
 - 🌱 I’m currently deep learning Rust-Lang
 - 🎨 I love use TailwindCSS, ReactJS + NextJS, and Rust
 - 💞️ I’m looking to collaborate on web development
