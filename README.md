@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @fiik346
-- 👀 I’m  interested wrting and design
+- 👋 Hi, I’m Taufik
+- 👀 I’m  interested writing and design
 - 🌱 I’m currently deep learning Rust-Lang
 - 🎨 I love use TailwindCSS, ReactJS + NextJS, and Rust
 - 💞️ I’m looking to collaborate on web development
